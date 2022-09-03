@@ -48,5 +48,11 @@ div#imagem{
 }
 div#formulario{
     display: block;
-    padding: 1opx;
+    padding: 10px;
+    text-align: justify;
+    text-indent: 30px;
+}
+h1{
+    text-indent: 0px;
+    text-align: center;
 }
